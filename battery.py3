@@ -25,7 +25,7 @@ out = (filled + empty).encode('utf-8')
 import sys
 
 color_green = '%{[32m%}'
-color_yellow = '%{[1;33m%}'
+color_yellow = '%{[33m%}'
 color_red = '%{[31m%}'
 color_reset = '%{[00m%}'
 color_out = (
